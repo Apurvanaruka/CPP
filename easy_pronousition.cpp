@@ -8,6 +8,8 @@ int main() {
 	string s;
 	cout<<"enter number of test case : ";
 	cin>>t;
+
+	cout << "work in progress....\n";
 	while(t--)
 	{
         count = 0;
